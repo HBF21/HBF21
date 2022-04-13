@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HBF21
 - 👀 I’m interested in Information Security
 - 🌱 I’m currently learning Database Security
-- 💞️ I’m looking to collaborate attack and defense of databses
+- 💞️ I’m looking to collaborate attack and defense of servers
 - 📫 How to reach me Email- mutombeemmanuel@yahoo.com
 
 <!---
